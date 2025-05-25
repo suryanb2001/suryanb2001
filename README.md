@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m a student of Amrita Vishwa Vidyapeetham, Coimbatore
-- 🌱 I’m currently learning web development
+- 🔭 I’m a Software Engineer in Cisco, Bangalore
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
